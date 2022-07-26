@@ -19,5 +19,3 @@ Full **Nectar** album available at - [playerzyx : Nectar](https://akshzyx.github
 ‎
 
 Thanks to **[muhammed](https://github.com/muhammed)**
-
-Demo: akshzyx.github.io/playerzyx/
